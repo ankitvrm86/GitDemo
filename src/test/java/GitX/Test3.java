@@ -6,5 +6,8 @@ public class Test3 {
 	{
 		System.out.println("TestCase3");
 	}
+	public void TestCase34 () {
+		System.out.println("TestCase34");
+	}
 
 }
